@@ -63,7 +63,7 @@ function App() {
             </section>
             <footer className="info">
                 <p>Double-click to edit a todo</p>
-                <p>Created by <a href="http://todomvc.com">Masooma</a></p>
+                <p>Created by <a href="http://todomvc.com">Your name</a></p>
                 <p>Part of <a href="http://todomvc.com">TodoMVC</a></p>
             </footer>
         </div>
